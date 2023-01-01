@@ -61,4 +61,11 @@ window.addEventListener('DOMContentLoaded', event => {
         elements: '#realisations a.portfolio-box'
     });
 
+    // Activate SimpleLightbox plugin for experiences items
+    // new SimpleLightbox({
+    //     elements: '#experiences a.portfolio-box'
+    // });
+
+    
+
 });
